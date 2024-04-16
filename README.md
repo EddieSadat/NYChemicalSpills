@@ -4,7 +4,8 @@ Objective:
 Analyze the Chemical Spills reported in NY and determine useful insights to increase environmental, economic, and social welfare in NY and surrounding areas.
 
 Files:  
-NYChemSpills.
+NYChemSpills.ipynb - Notebook containing code used for analysis.  
+NY_ChemSpills_Report.pdf - PDF of Final Report
 
 Data Source:  
 https://catalog.data.gov/dataset/spill-incidents/resource/a8f9d3c8-c3fa-4ca1-a97a-55e55ca6f8c0
