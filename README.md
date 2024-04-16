@@ -3,10 +3,10 @@ Final Project for EM224 Informatics & Software Development at Stevens Institute 
 Objective: 
 Analyze the Chemical Spills reported in NY and determine useful insights to increase environmental, economic, and social welfare in NY and surrounding areas.
 
-Files:
-NYChemicalSpills.
+Files:  
+NYChemSpills.
 
-Data Source: 
+Data Source:  
 https://catalog.data.gov/dataset/spill-incidents/resource/a8f9d3c8-c3fa-4ca1-a97a-55e55ca6f8c0
 
 
